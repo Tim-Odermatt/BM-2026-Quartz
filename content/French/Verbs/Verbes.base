@@ -1,0 +1,27 @@
+formulas:
+  Untitled: '"-" + file.name.slice(-2)'
+properties:
+  formula.Untitled:
+    displayName: Type
+views:
+  - type: table
+    name: View
+    filters:
+      and:
+        - file.path.startsWith("BM Schule/French/Verbs/")
+        - file.ext == "md"
+    order:
+      - file.name
+      - formula.Untitled
+    sort:
+      - property: formula.Untitled
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 85
+      formula.Untitled: 598
+  - type: table
+    name: View 2
+  - type: kanban
+    name: View 3

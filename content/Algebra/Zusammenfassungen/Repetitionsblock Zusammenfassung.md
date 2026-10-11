@@ -1,0 +1,79 @@
+
+# Zahlenmengen
+Alle Zahlen auf der Zahlen gerade von $-\infty$ bis $\infty$
+$\mathbb{N}$ = Natürliche Zahlen
+$\mathbb{N}_0$ = Natürliche Zahlen und Null
+$\mathbb{Z}$ = Ganze Zahlen
+$\mathbb{Q}$ = Rationalen Zahlen
+$\mathbb{I}$ = Irrationalen Zahlen
+$\mathbb{R}$ =  $\mathbb{I} \cup \mathbb{Q}$ = Reele Zahlen
+
+# Betrag (Absolute)
+Der Betrag von einer Zahl ergibt immer die positive gleiche Zahl.
+$x$ = $-1$
+$\vert x\vert$ = $1$
+
+# Vergleichsoperatoren
+$a<b$ = a ist grösser b
+$a>b$ = a ist kleiner b
+$a\le b$ = a ist grösser oder gleich b
+$a\ge b$ = a ist kleiner oder gleich b
+
+# Exakte Zahlen und Näherungswert
+## Exakte Zahlen
+$\frac{1}{3}$
+$\frac{1}{7}$
+47
+23.1
+## Näherungswert
+$0.\overline{3}$
+$0.\overline{125}$
+$10.26...$
+$3.14159...$
+# Signifikante stellen
+10 = 2 Signifikante
+52.01 = 4 Signifikante
+98.200 = 5 Signifikante
+
+# Mengenlehre
+Symbole für mengen sind die Buchstaben mit doppelstrichen wie:
+$\mathbb{A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z}$
+## Element der  Menge $\in$
+$a = \{-1\}$
+$a \not\in \mathbb{N}$ = Das Element a ist kein Element in der Menge der Natürlichen Zahlen
+## Teilmengen $\subset$
+$\mathbb{A} = \{1;2;200;\infty\}$
+$\mathbb{A} \subset \mathbb{R}$ = Die Menge A ist enthalten in der Menge der Reelen Zahlen
+## Geschnitten $\cap$
+$\mathbb{A} \cap \mathbb{B}$ = $\mathbb{A}$ geschnitten $\mathbb{B}$ 
+## Vereinigt $\cup$
+$\mathbb{Q} \cup \mathbb{I}$ = $\mathbb{Q}$ vereinigt $\mathbb{I}$ 
+## Differenezmenge
+$\mathbb{A} \setminus \mathbb{B}$ = $\mathbb{A}$ ohne $\mathbb{B}$ 
+## Konjunktion
+$A:$   12 durch 3 teibahr = wahr
+$B:$   12 durch 4 teibahr = wahr
+$A \land B$ = wahr = $A$ und $B$
+### Wahrheitstafel
+
+| A      | B      | A $\land$ B |
+| ------ | ------ | ----------- |
+| wahr   | wahr   | wahr        |
+| wahr   | falsch | falsch      |
+| falsch | wahr   | falsch      |
+| falsch | falsch | falsch      |
+## Disjunktion
+$A:$   16 durch 3 teibahr = falsch
+$B:$   16 durch 4 teibahr = wahr
+$A \lor B$ = wahr = $A$ und $B$
+### Wahrheitstafel
+
+| A      | B      | A $\lor$ B |
+| ------ | ------ | ---------- |
+| wahr   | wahr   | wahr       |
+| wahr   | falsch | wahr       |
+| falsch | wahr   | wahr       |
+| falsch | falsch | falsch     |
+# Äquivalent
+
+$\Rightarrow, \Leftrightarrow$
