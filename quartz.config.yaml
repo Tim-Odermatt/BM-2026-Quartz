@@ -295,7 +295,7 @@ plugins:
     options:
       links:
         - label: BMVT26C
-          href: /
+          href: .
         - label: Algebra
           href: /Algebra
         - label: Chemie
