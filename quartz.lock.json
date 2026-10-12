@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "plugins": {
+    "obsidian-flavored-markdown": {
+      "source": "github:Tim-Odermatt/obsidian-flavored-markdown",
+      "resolved": "https://github.com/Tim-Odermatt/obsidian-flavored-markdown.git",
+      "commit": "3946d9392df39b3c16eef1c5883f22e5e690a6b2",
+      "installedAt": "2026-10-12T19:11:54.800Z"
+    },
+    "quartz-navbar": {
+      "source": "github:satche/quartz-navbar",
+      "resolved": "https://github.com/satche/quartz-navbar.git",
+      "commit": "b62e37616a1cc08451ff2f4e6f07d39963f61140",
+      "installedAt": "2026-10-12T20:57:51.402Z"
+    }
+  }
+}

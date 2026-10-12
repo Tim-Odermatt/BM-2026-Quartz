@@ -59,7 +59,7 @@ plugins:
       keepBackground: false
     order: 20
   - source: "@quartz-community/obsidian-flavored-markdown"
-    enabled: true
+    enabled: false
     options:
       comments: true
       highlight: true
@@ -111,7 +111,7 @@ plugins:
   - source: "@quartz-community/quartz-fonts"
     enabled: true
   - source: "@quartz-themes/core"
-    enabled: true
+    enabled: false
     options:
       theme: abecedarium
       mode: dark
@@ -267,12 +267,53 @@ plugins:
       priority: 15
       display: all
   - source: "@quartz-community/obsidian-plugin-excalidraw"
-    enabled: true
+    enabled: false
     options:
       enableInteraction: true
       darkMode: auto
       exportPadding: 20
     order: 50
+  - source: github:Tim-Odermatt/obsidian-flavored-markdown
+    enabled: true
+    options:
+      comments: true
+      highlight: true
+      wikilinks: true
+      callouts: true
+      mermaid: true
+      parseTags: true
+      parseBlockReferences: true
+      enableInHtmlEmbed: false
+      enableYouTubeEmbed: true
+      enableTweetEmbed: true
+      enableVideoEmbed: true
+      enableCheckbox: false
+      enableObsidianUri: true
+    order: 30
+  - source: github:satche/quartz-navbar
+    enabled: true
+    options:
+      links:
+        - label: BMVT26C
+          href: /
+        - label: Algebra
+          href: /Algebra
+        - label: Chemie
+          href: /Chemie
+        - label: Deutsch
+          href: /Deutsch
+        - label: Englisch
+          href: /Englisch
+        - label: French
+          href: /French
+        - label: Geschichte und Politik
+          href: /Geschichte-und-Politik
+        - label: IDPA
+          href: /IDPA
+        - label: Wirtschaft und Recht
+          href: /Wirtschaft-und-Recht
+    layout:
+      position: header
 layout:
   groups:
     toolbar:
