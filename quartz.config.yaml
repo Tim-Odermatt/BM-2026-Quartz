@@ -17,7 +17,7 @@ configuration:
     cdnCaching: true
     typography:
       header: Schibsted Grotesk
-      body: Tinos
+      body: Source Sans Pro
       code: IBM Plex Mono
     colors:
       lightMode:
@@ -59,7 +59,7 @@ plugins:
       keepBackground: false
     order: 20
   - source: "@quartz-community/obsidian-flavored-markdown"
-    enabled: false
+    enabled: true
     options:
       comments: true
       highlight: true
@@ -274,7 +274,7 @@ plugins:
       exportPadding: 20
     order: 50
   - source: github:Tim-Odermatt/obsidian-flavored-markdown
-    enabled: true
+    enabled: false
     options:
       comments: true
       highlight: true
