@@ -59,7 +59,7 @@ plugins:
       keepBackground: false
     order: 20
   - source: "@quartz-community/obsidian-flavored-markdown"
-    enabled: true
+    enabled: false
     options:
       comments: true
       highlight: true
@@ -274,7 +274,7 @@ plugins:
       exportPadding: 20
     order: 50
   - source: github:Tim-Odermatt/obsidian-flavored-markdown
-    enabled: false
+    enabled: true
     options:
       comments: true
       highlight: true
@@ -289,31 +289,7 @@ plugins:
       enableVideoEmbed: true
       enableCheckbox: false
       enableObsidianUri: true
-    order: 30
-  - source: github:satche/quartz-navbar
-    enabled: true
-    options:
-      links:
-        - label: BMVT26C
-          href: .
-        - label: Algebra
-          href: /Algebra
-        - label: Chemie
-          href: /Chemie
-        - label: Deutsch
-          href: /Deutsch
-        - label: Englisch
-          href: /Englisch
-        - label: French
-          href: /French
-        - label: Geschichte und Politik
-          href: /Geschichte-und-Politik
-        - label: IDPA
-          href: /IDPA
-        - label: Wirtschaft und Recht
-          href: /Wirtschaft-und-Recht
-    layout:
-      position: header
+    order: 31
 layout:
   groups:
     toolbar:

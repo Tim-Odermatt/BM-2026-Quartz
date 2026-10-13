@@ -1,3 +1,48 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+:root {
+    // Obsidian default
+    --highlight-opacity: 30%;
+    --color-red: #fb464c;
+    //--color-orange: #e9973f;
+    --color-yellow: #e0de71;
+    --color-green: #44cf6e;
+    --color-blue: #027aff;
+    //--color-purple: #a882ff; 
+
+    // Custom Theme
+    --color-purple: #b352e0;
+    --color-orange: #de9d07;
+
+    // Color calculation from Obsidian default
+    --highlight-background-red:  color-mix(in oklch, var(--color-red) var(--highlight-opacity), transparent);
+    --highlight-background-orange:  color-mix(in oklch, var(--color-orange) var(--highlight-opacity), transparent);
+    --highlight-background-yellow:  color-mix(in oklch, var(--color-yellow) var(--highlight-opacity), transparent);
+    --highlight-background-green:  color-mix(in oklch, var(--color-green) var(--highlight-opacity), transparent);
+    --highlight-background-blue:  color-mix(in oklch, var(--color-blue) var(--highlight-opacity), transparent);
+    --highlight-background-purple:  color-mix(in oklch, var(--color-purple) var(--highlight-opacity), transparent);
+}
+
+// Apply to modified 
+.text-highlight-red {
+    background-color: var(--highlight-background-red);
+}
+.text-highlight-orange {
+    background-color: var(--highlight-background-orange);
+}
+.text-highlight-yellow {
+    background-color: var(--highlight-background-yellow);
+}
+.text-highlight-green {
+    background-color: var(--highlight-background-green);
+}
+.text-highlight-cyan {
+    background-color: var(--highlight-background-cyan);
+}
+.text-highlight-blue {
+    background-color: var(--highlight-background-blue);
+}
+.text-highlight-purple {
+    background-color: var(--highlight-background-purple);
+}
