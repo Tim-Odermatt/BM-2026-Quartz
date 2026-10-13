@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: BM 2026
+  pageTitle: BM 2026/27
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -287,7 +287,7 @@ plugins:
       enableYouTubeEmbed: true
       enableTweetEmbed: true
       enableVideoEmbed: true
-      enableCheckbox: false
+      enableCheckbox: true
       enableObsidianUri: true
     order: 31
 layout:
