@@ -3,7 +3,7 @@ The following text is for debunging my forked of:
 [quartz-community/obsidian-flavored-markdown](https://github.com/quartz-community/obsidian-flavored-markdown)
 or just a list of cool features to remember.
 ## Add Highlighings from Obsidian [1.14.4](https://obsidian.md/changelog/2026-10-05-desktop-v1.14.4/)
-Turning the ==highlight== into colored (🔴, 🟠, 🟡, 🟢, 🔵, 🟣) ==🔴hi====🟠g====🟡h====🟢li====🔵gh====🟣ts==.
+Turning the ==highlight== into colored (🔴, 🟠, 🟡, 🟢, 🔵, 🟣) ==🔴hi== ==🟠g== ==🟡h== ==🟢li== ==🔵gh== ==🟣ts==.
 
 ==Default==
 ==🔴Red==

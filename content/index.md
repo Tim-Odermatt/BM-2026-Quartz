@@ -10,7 +10,7 @@ The math aint mathing.
 Start mit BM Algebra, dabei wird viel Wert auf die [Werkstatt](https://mathematik.bm-mint.ch/Werkstatt/index.html) gelegt.
 
 ### [[2. Funktionen I, Gleichungen I]]
-Anfängliche neue Grundlagen der Algebra in Funktionen und Gleichungen.
+Anfängliche neue Grundlagen der Algebra in Funktionen, Gleichungen und Textaufgaben.
 
 ---
 
