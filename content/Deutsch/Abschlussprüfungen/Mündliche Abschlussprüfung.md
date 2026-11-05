@@ -16,3 +16,8 @@ Dabei gibt es 4 Standardfragen, welche auch bei der Abschlussprüfung kommen.
 - Analysieren Sie das Gedicht formal, sprachlich und inhaltlich.
 - Beschreiben Sie die mögliche Absicht des Dichters.
 - Bestimmen und belegen Sie die Merkmale dieser literarischen Epoche.
+## 2. Analysieren formal, sprachlich und inhaltlich
+- **Jambus:** unbetont – betont _(da-DUM)_
+- **Trochäus:** betont – unbetont _(DUM-da)_
+- **Anapäst:** unbetont – unbetont – betont _(da-da-DUM)_
+- **Daktylus:** betont – unbetont – unbetont _(DUM-da-da)_

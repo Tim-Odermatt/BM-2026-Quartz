@@ -1,5 +1,27 @@
 # Graphisches Lösen
 Wichtige zu sagen ist, dass die Ermittlung nicht mithilfe von der Berechnung erlaubt ist. Dies bedeutet das alles nur mit Hilfe der ursprünglichen Gleichunge gezeichnet werden darf.
+# Analytisch Lösen
+## Mithilfe der Additionsmethode
+$$
+\begin{matrix}
+ ①\\②
+\end{matrix}
+\begin{vmatrix}
+3x + 4y = 32 \\
+x -2y = -6
+\end{vmatrix}
+\begin{matrix}
+\\\times 2
+\end{matrix}
+\begin{matrix}
+~~~\big ]\oplus
+\end{matrix}
+
+$$
+
+## Mithilfe der Gleichsetzungsmethode
+## Mithilfe der Einsetzmethode
+
 # Die Drei Lösungsmengen
 ## Eine Lösung
 Die Lösungsmenge ergibt der einzige Punkt an dem sich die beiden Gleichungen schneiden.
