@@ -38,3 +38,5 @@ Turning the ==highlight== into colored (🔴, 🟠, 🟡, 🟢, 🔵, 🟣) ==�
 - [w] win
 - [u] up
 - [d] down
+
+---
