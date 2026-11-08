@@ -14,7 +14,6 @@ elements: [
 ```
 ````
 
-
 ```graph
 bounds: [-10, 10, 10, -10]
 bounds3d: [[-5,5], [-5,5], [-5,5]]
@@ -24,7 +23,3 @@ elements: [
     {type: point3d, def: [1,1,1]}
 ]
 ```
-
-
-![point3d](Point3D-graph-1.png)
-

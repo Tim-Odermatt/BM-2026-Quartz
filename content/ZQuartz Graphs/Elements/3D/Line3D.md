@@ -14,7 +14,6 @@ elements: [
 ```
 ````
 
-
 ```graph
 bounds: [-10, 10, 10, -10]
 bounds3d: [[-5,5], [-5,5], [-5,5]]
@@ -24,6 +23,3 @@ elements: [
     {type: line3d, def: [[0,0,0], [4,4,5]]}
 ]
 ```
-
-![line3d](Line3D-graph-1.png)
-

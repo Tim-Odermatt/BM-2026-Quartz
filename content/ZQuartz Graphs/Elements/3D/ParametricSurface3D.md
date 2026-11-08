@@ -14,7 +14,6 @@ elements: [
 ```
 ````
 
-
 ```graph
 bounds: [-10, 10, 10, -10]
 bounds3d: [[-5,5], [-5,5], [-5,5]]
@@ -24,7 +23,3 @@ elements: [
     {type: parametricsurface3d, def: [f:(2+cos(x))*cos(y), f:(2+cos(x))*sin(y), f:sin(x), [-5,f:2*PI], [-5,f:PI]]},
 ]
 ```
-
-
-![parametricsurface3d](ParametricSurface3D-graph-1.png)
-

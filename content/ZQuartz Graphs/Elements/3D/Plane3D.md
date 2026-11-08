@@ -14,7 +14,6 @@ elements: [
 ```
 ````
 
-
 ```graph
 bounds: [-10, 10, 10, -10]
 bounds3d: [[-5,5], [-5,5], [-5,5]]
@@ -24,7 +23,3 @@ elements: [
     {type: plane3d, def: [[1,-1,1], [0,1,0], [2,1,1]]}
 ]
 ```
-
-
-![plane3d](Plane3D-graph-1.png)
-

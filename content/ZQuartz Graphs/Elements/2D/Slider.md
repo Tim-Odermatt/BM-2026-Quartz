@@ -11,5 +11,9 @@ elements: [
 ```
 ````
 
-![slider](Slider-graph-1.png)
-
+```graph
+bounds: [-10, 10, 10, -10]
+elements: [
+    {type: slider, def: [[1,2], [3,2], [1,5,10]]}
+]
+```

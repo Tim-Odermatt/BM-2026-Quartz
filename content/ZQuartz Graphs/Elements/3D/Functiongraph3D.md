@@ -14,7 +14,6 @@ elements: [
 ```
 ````
 
-
 ```graph
 bounds: [-10, 10, 10, -10]
 bounds3d: [[-5,5], [-5,5], [-5,5]]
@@ -24,7 +23,3 @@ elements: [
     {type: functiongraph3d, def: [f:sin(x*y/4), [-5,5], [-5,5]]}
 ]
 ```
-
-
-![functiongraph3d](Functiongraph3D-graph-1.png)
-

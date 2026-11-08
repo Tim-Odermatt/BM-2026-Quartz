@@ -14,7 +14,6 @@ elements: [
 ```
 ````
 
-
 ```graph
 bounds: [-10, 10, 10, -10]
 bounds3d: [[-5,5], [-5,5], [-5,5]]
@@ -24,7 +23,3 @@ elements: [
     {type: polygon3d, def: [[3,3,0], [1,1,1], [-1,-1,-1]]}
 ]
 ```
-
-
-![polygon3d](Polygon3D-graph-1.png)
-

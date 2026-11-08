@@ -23,5 +23,3 @@ elements: [
     {type: curve3d, def: [f:x, f:-x, f:x, [0,5]]}
 ]
 ```
-
-![curve3d](Curve3D-graph-1.png)

@@ -76,7 +76,12 @@ elements: [
 ```
 ````
 
-![creatingFunctions](Functiongraph-graph-1.png)
+```graph
+bounds: [-10, 10, 10, -10]
+elements: [
+    {type: functiongraph, def: [f:sin(x)]}
+]
+```
 
 #### Composing Elements
 Elements can be composed to make other elements if an elements takes a point or line as a parameter then you can give it an already existing one. The element given as a parameter has to be defined before where it is being used and is accessed by passing in the index number starting at 0 for the element as a string with an e before it `e0`.
@@ -94,5 +99,12 @@ elements: [
 ```
 ````
 
-![composing](Composing-graph-1.png)
+```graph
+bounds: [-10, 10, 10, -10]
+elements: [
+    {type: point, def: [1,1]},
+    {type: point, def: [4,5]},
+    {type: line, def: [e0, e1]}
+]
+```
 

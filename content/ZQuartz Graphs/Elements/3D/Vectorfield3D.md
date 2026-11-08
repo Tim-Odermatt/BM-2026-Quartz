@@ -14,7 +14,6 @@ elements: [
 ```
 ````
 
-
 ```graph
 bounds: [-10, 10, 10, -10]
 bounds3d: [[-5,5], [-5,5], [-5,5]]
@@ -24,6 +23,3 @@ elements: [
     {type: vectorfield3d, def: [[f:sin(x),f:sin(y),f:sin(z)], [-5,5,5], [-5,5,5], [-5,5,5]]}
 ]
 ```
-
-
-![vectorfield3d](Vectorfield3D-graph-1.png)

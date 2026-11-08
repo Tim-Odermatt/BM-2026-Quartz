@@ -12,7 +12,10 @@ bounds: [-10, 10, 10, -10]
 ```
 ````
 
-![bounds](Board-graph-1.png)
+
+```graph
+bounds: [-10, 10, 10, -10]
+```
 
 ## DefaultAxes
 
@@ -69,7 +72,13 @@ elements: [
 ```
 ````
 
-![keepAspectRatio](Circle-graph-1.png)
+```graph
+bounds: [-10, 10, 10, -10]
+keepAspectRatio: true
+elements: [
+    {type: circle, def: [[0,0], 3]}
+]
+```
 
 ## Drag
 
@@ -104,6 +113,21 @@ defaultAxes: {
 ```
 ````
 
+```graph
+bounds: [-1, 1, 1, -1]
+defaultAxes: {
+    x: {
+        ticks: {
+            label: {
+                toFraction: true
+            }
+        }
+    },
+    y: {
+    
+    }
+}
+```
 ## MaxBoundingBox
 
 The bounding box is the initial view of the graph. MaxBoundingBox allows you to set a max view area so that it cannot be infinite.
@@ -114,7 +138,6 @@ bounds: [-10, 10, 10, -10]
 maxBoundingBox: [-20, 20, 20, -20]
 ```
 ````
-
 ## Navigation
 
 At the bottom right of the graph there is navigation to move within the graph. By default navigation is on but can be disabled with `showNavigation: false`
@@ -133,8 +156,7 @@ At the bottom right of the graph there is navigation to move within the graph. B
 	* move up
 * $\rightarrow$
 	* move right
-	
-With navigation
+### With navigation
 
 ````yaml
 ```graph
@@ -142,9 +164,11 @@ bounds: [-10, 10, 10, -10]
 ```
 ````
 
-![navigation](Board-graph-2.png)
+```graph
+bounds: [-10, 10, 10, -10]
+```
 
-Without navigation
+### Without navigation
 
 ````yaml
 ```graph
@@ -153,8 +177,10 @@ showNavigation: false
 ```
 ````
 
-![noNavigation](Board-graph-1.png)
-
+```graph
+bounds: [-10, 10, 10, -10]
+showNavigation: false
+```
 ## Axis
 
 You can disable showing the axis and the grid line by setting `axis: false`,

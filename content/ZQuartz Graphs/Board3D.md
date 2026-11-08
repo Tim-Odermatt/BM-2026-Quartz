@@ -12,7 +12,12 @@ keepAspectRatio: true
 ```
 ````
 
-![board3d1](Board3D-graph-1.png)
+```graph
+bounds: [-10, 10, 10, -10]
+bounds3d: [[-5,5], [-5,5], [-5,5]]
+axis: false
+keepAspectRatio: true
+```
 
 You can also use the `graph3d` codeblock to provide better defaults for 3D graphs which can be overridden.
 These defaults are
@@ -27,7 +32,9 @@ elements: []
 ```
 ````
 
-![board3d2](Board3D-graph-2.png)
+```graph3d
+elements: []
+```
 
 ## Attributes
 
@@ -39,7 +46,9 @@ att3d:
 ```
 ````
 
-![board3d3](Board3D-graph-3.png)
+```graph3d
+att3d:
+```
 
 ### axesPosition
 
@@ -80,7 +89,10 @@ att3d:
 ```
 ````
 
-![board3d4](Board3D-graph-4.png)
+```graph3d
+att3d:
+  xPlaneFront: {visible: true, fillColor: red}
+```
 
 ### planeAxis
 
@@ -105,4 +117,7 @@ att3d:
 ```
 ````
 
-![board3d5](Board3D-graph-5.png)
+```graph3d
+att3d:
+  xPlaneRearYAxis: {strokeColor: red}
+```

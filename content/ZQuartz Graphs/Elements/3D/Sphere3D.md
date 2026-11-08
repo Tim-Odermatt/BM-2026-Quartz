@@ -23,7 +23,3 @@ elements: [
     {type: sphere3d, def: [[0,0,0], 2]},
 ]
 ```
-
-
-![sphere3d](Sphere3D-graph-1.png)
-
