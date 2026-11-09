@@ -16,7 +16,7 @@ x -2y = -6
 \begin{matrix}
 ~~~\big ]\oplus
 \end{matrix}
-
+\\
 $$
 
 ## Mithilfe der Gleichsetzungsmethode

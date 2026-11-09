@@ -1,15 +1,10 @@
 # Quartz v5 for my BM 2026/27 year
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+My [Obsidian.md](https://obsidian.md/) notes for my BM 2026/27 year, uploaded throught a seperate [Quartz v5](https://github.com/jackyzha0/quartz) repo.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+It gets deployed at: https://tim-odermatt.github.io/BM-2026-Quartz/
+[RSS feed](https://tim-odermatt.github.io/BM-2026-Quartz/index.xml)
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
-
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+## Custom Features for this Repo
+- Implementet [Obsidian Graphs](https://github.com/DylanHojnoski/obsidian-graphs) as [Quartz Obsidian Graphs](https://github.com/Tim-Odermatt/quartz-obsidian-graphs)
+- Janky and not working fork [obsidian-flavored-markdown](https://github.com/quartz-community/obsidian-flavored-markdown)

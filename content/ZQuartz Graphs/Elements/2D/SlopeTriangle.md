@@ -13,6 +13,15 @@ elements: [
 ```
 ````
 
+```graph
+bounds: [-10, 10, 10, -10]
+elements: [
+    {type: line, def: [[0,0], [2,5]]},
+    {type: glider, def: [0, 0, e0]},
+    {type: slopetriangle, def: [e0, e1]}
+]
+```
+
 ![slopeTriangle1](SlopeTriangle-graph-1.png)
 
 ````yaml

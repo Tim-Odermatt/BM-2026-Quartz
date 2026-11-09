@@ -90,7 +90,7 @@ Gesetz ist Gesetz.
 ### [[2. Grundlagen]]
 Grundbausatz für Politik, Recht, Wirtschaft, und Geselschaft.
 
-### [[3. Recht]]
+### [[3.1 Familienrecht und Erbrecht]]
 Tiefe erkundung vom Familien- und Erbrecht.
 
 
