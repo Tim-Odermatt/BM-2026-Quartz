@@ -17,7 +17,7 @@ Anfängliche neue Grundlagen der Algebra in Funktionen, Gleichungen und Textaufg
 ## Chemie
 Die Geschichte von [Breaking Bad.](https://en.wikipedia.org/wiki/Breaking_Bad)
 
-### [[1. Einführung]]
+### [[BM Schule/Chemie/Zusammenfassungen/1. Einführung]]
 Was sind Stoffe, Dichte, und Aggregatszustände.
 
 ### [[2. Atombau und Atommodelle]]

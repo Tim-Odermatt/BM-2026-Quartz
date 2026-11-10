@@ -43,3 +43,4 @@ Den Beobachter [Artikel](https://www.beobachter.ch/familie-freunde/konkubinat/10
 - Es ist passend für junge Paare die noch nicht auf einen Entscheid gelangen wollen für eine Ehe, somit gehen sie eine Stuffe höher mit dem PACS bis sie Ehe bereit sind.
 # Argumente Dagegen
 - Noch eine Zusätzliche Gemeinschaftsregelung ist unnötig.
+- Mehr Bürakratie.
