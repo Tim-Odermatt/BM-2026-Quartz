@@ -1,17 +1,11 @@
 {
   "version": "1.0.0",
   "plugins": {
-    "obsidian-flavored-markdown": {
-      "source": "github:Tim-Odermatt/obsidian-flavored-markdown",
-      "resolved": "https://github.com/Tim-Odermatt/obsidian-flavored-markdown.git",
-      "commit": "3946d9392df39b3c16eef1c5883f22e5e690a6b2",
-      "installedAt": "2026-10-12T19:11:54.800Z"
-    },
     "quartz-obsidian-graphs": {
       "source": "github:Tim-Odermatt/quartz-obsidian-graphs",
       "resolved": "https://github.com/Tim-Odermatt/quartz-obsidian-graphs.git",
-      "commit": "e17c9d36063116bfcc9a8fe041094494f0157f63",
-      "installedAt": "2026-11-08T19:29:38.050Z"
+      "commit": "a2e338b051c9109ceb36d7fb8efc5b44c7c8e250",
+      "installedAt": "2026-11-10T19:53:54.756Z"
     }
   }
 }
