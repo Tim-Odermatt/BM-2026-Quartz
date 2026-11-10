@@ -1,10 +1,17 @@
-# Quartz v5 for my BM 2026/27 year
+# Quartz v5
 
-My [Obsidian.md](https://obsidian.md/) notes for my BM 2026/27 year, uploaded throught a seperate [Quartz v5](https://github.com/jackyzha0/quartz) repo.
+> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
 
-It gets deployed at: https://tim-odermatt.github.io/BM-2026-Quartz/
-[RSS feed](https://tim-odermatt.github.io/BM-2026-Quartz/index.xml)
+Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
 
-## Custom Features for this Repo
-- Implementet [Obsidian Graphs](https://github.com/DylanHojnoski/obsidian-graphs) as [Quartz Obsidian Graphs](https://github.com/Tim-Odermatt/quartz-obsidian-graphs)
-- Janky and not working fork [obsidian-flavored-markdown](https://github.com/quartz-community/obsidian-flavored-markdown)
+🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+
+[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+
+## Sponsors
+
+<p align="center">
+  <a href="https://github.com/sponsors/jackyzha0">
+    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
+  </a>
+</p>
