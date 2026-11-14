@@ -11,7 +11,6 @@ on:
 
 jobs:
   build-and-test:
-    if: ${{ github.repository == 'jackyzha0/quartz' }}
     strategy:
       matrix:
         os: [windows-latest, macos-latest, ubuntu-latest]
@@ -66,7 +65,7 @@ jobs:
             || echo "::warning::No changeset in this PR. If it changes how Quartz behaves, run 'npx changeset' (see .changeset/README.md)."
 
   publish-tag:
-    if: ${{ github.repository == 'jackyzha0/quartz' && github.ref == 'refs/heads/v5' }}
+    if: ${{ github.ref == 'refs/heads/v5' }}
     runs-on: ubuntu-latest
     permissions:
       contents: write
