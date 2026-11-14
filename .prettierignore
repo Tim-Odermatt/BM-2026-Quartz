@@ -1,3 +1,8 @@
+# Obsidian vault – preserve handmade Markdown
+content/**
+
+# Generated files
 public
 node_modules
 .quartz-cache
+.cache/
