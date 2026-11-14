@@ -1,4 +1,4 @@
-# ![[4. IDAF Vektoren berechnen]]
+![[4. IDAF Vektoren berechnen]]
 
 # Graph
 

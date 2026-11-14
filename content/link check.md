@@ -1,0 +1,13 @@
+- [Safe — Spiceworks](https://community.spiceworks.com/)
+- [Unsafe — IGG Games](https://igg-games.com/)
+- [Potentially Unsafe — Softonic](https://softonic.com/)
+- [Starred — DevToys](https://devtoys.app/)
+- [FMHY Related — FMHY](https://fmhy.net/)
+- [Unknown — Example](https://example.com/) 
+
+- https://community.spiceworks.com/ 
+- https://igg-games.com/
+- https://softonic.com/
+- https://devtoys.app/
+- https://fmhy.net/
+- https://example.com/

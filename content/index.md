@@ -5,19 +5,22 @@ title: BMVT26C
 Folgende Fächer mit meinen erstellten Zusammenfassungen dazu.
 
 ## Algebra
-The math aint mathing.
+The math ain't mathing.
 ### [[1. Repetitionsblock]]
 Start mit BM Algebra, dabei wird viel Wert auf die [Werkstatt](https://mathematik.bm-mint.ch/Werkstatt/index.html) gelegt.
 
 ### [[2. Funktionen I, Gleichungen I]]
 Anfängliche neue Grundlagen der Algebra in Funktionen, Gleichungen und Textaufgaben.
 
+### [[3. Lineare Gleichungssysteme]]
+Wie man mit mehreren variablen das Resultat bekommt einer Gelichung.
+
 ---
 
 ## Chemie
 Die Geschichte von [Breaking Bad.](https://en.wikipedia.org/wiki/Breaking_Bad)
 
-### [[BM Schule/Chemie/Zusammenfassungen/1. Einführung]]
+### [[1. Einführung]]
 Was sind Stoffe, Dichte, und Aggregatszustände.
 
 ### [[2. Atombau und Atommodelle]]
@@ -27,6 +30,7 @@ Was ist ein Atommodelle und was sind Atome und Isotope.
 Wie ist das Periodensystem strukturiert und was ist ein Atomradius und Elektronegativität.
 
 ### [[4. Moleküle und ZMK]]
+Einführung der Nichtmetall bindungen (Moleküle) und [[Zwischenmolekulare Kräfte|ZMK]].
 
 ---
 
@@ -38,6 +42,9 @@ Die "Indische Dichtung" von Hermann Hesse.
 
 ### [[6. Wilhelm Tell]]
 Das Theaterspiel von Fridrich Schiller.
+
+### [[8. Der Mensch zwischen Sehnsucht und Realität]]
+Die weitern Literaturepochen im Detail.
 
 ---
 
@@ -81,6 +88,29 @@ Vor und während Ludwig XIV.
 
 ### [[2. Französische Revolution]]
 Was Ludwig XIV erstellt hat, hat Ludwig XVI ruiniert.
+
+### ~~[[3. Napoleonische Ära]]~~
+Nicht realisierte Zusammenfassung.
+
+### ~~[[4. Wiener Kongress]]~~
+Nicht realisierte Zusammenfassung.
+
+### [[5. Schweizer Geschichte]]
+Die Schweizer geschichte vom Ancien Regime bis circa Heute.
+
+---
+
+## Physik
+Ein Apfel vom Baum oder ein Apfel vom Kopf?
+
+### ~~[[2. Kinematik]]~~
+Nicht realisierte Zusammenfassung.
+
+### [[3. Statik]]
+Die Grundlegende einführung zu Newton, Drehmoment (Arbeit) und Vektorzeichnen.
+
+### [[4. IDAF Vektoren berechnen]]
+Das IDAF Modul zu Vektoren berechnen/addieren/dividieren/multiplitzieren.
 
 ---
 
