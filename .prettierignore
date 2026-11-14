@@ -1,5 +1,6 @@
 # Obsidian vault – preserve handmade Markdown
 content/**
+quartz/styles/custom.scss
 
 # Generated files
 public
