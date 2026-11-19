@@ -87,3 +87,10 @@ elements: [
   {type: circumcenter, def: [e0, e1, e2], att: {name: "U", size: 3, strokeColor: "#ffaa00", fillColor: "#ffaa00"}}
 ]
 ```
+
+---
+
+- https://community.spiceworks.com/ 
+- https://devtoys.app/
+- https://fmhy.net/
+- https://example.com/
