@@ -7,3 +7,6 @@ public
 node_modules
 .quartz-cache
 .cache/
+
+# deploy.yml
+.github/workflows/deploy.yml
