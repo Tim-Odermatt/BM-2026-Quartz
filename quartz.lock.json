@@ -1,4 +1,11 @@
 {
   "version": "1.0.0",
-  "plugins": {}
+  "plugins": {
+    "quartz-obsidian-graphs": {
+      "source": "github:Tim-Odermatt/quartz-obsidian-graphs",
+      "resolved": "https://github.com/Tim-Odermatt/quartz-obsidian-graphs.git",
+      "commit": "399e70662a01492c2fc5f333f0173ca5c4a7fb4f",
+      "installedAt": "2026-11-19T19:57:51.724Z"
+    }
+  }
 }

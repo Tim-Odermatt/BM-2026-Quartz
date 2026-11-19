@@ -254,6 +254,13 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
+  - source: github:Tim-Odermatt/quartz-obsidian-graphs
+    enabled: true
+    options: {}
+    order: 50
+    layout:
+      position: right
+      priority: 50
 layout:
   groups:
     toolbar:
