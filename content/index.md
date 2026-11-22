@@ -62,7 +62,7 @@ Je ne parle pas français!
 ### [[1. Repartir]]
 Das erste Thema, dabei handelt es sich regelrecht um einen Neuanfang.
 
-### [[BM Schule/Französisch/Summarys/2. Et avec ceci]]
+### [[2. Et avec ceci]]
 
 ---
 

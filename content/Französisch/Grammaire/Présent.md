@@ -133,6 +133,5 @@ Die se (sich) verben folgen den gleichen Regeln welche oben bennant wurden.
 | nous           | nous | lavons |
 | vous           | vous | lavez  |
 | ils / elles    | se   | lavent |
-
 ^74c528
 
