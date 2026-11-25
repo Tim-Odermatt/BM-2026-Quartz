@@ -8,18 +8,14 @@ $$
 r = Radius\\
 b = Bogenmass\\ \\
 b = \frac{\pi}{180} \cdot r\cdot \alpha\\
-b = e\cdot arc(\alpha)
+b = e\cdot arc(\alpha)\\
+\alpha = \frac{180\cdot b}{\pi \cdot r}
 $$
 <div style="display: flex; justify-content: center;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Circle_radians.gif?utm_source=de.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" alt="Description of the image" style="width: 40%; height: auto;"
 >
 </div>
 
-$$
-r = Radius\\
-b = Bogenmass\\ \\
-\alpha = \frac{180\cdot b}{\pi \cdot r}
-$$
 # TI-30X Pro MathPrint
 Step by Step um von Grad in rad zu rechnen.
 1. `mode`  $\rightarrow$ `RADIAN`

@@ -69,8 +69,8 @@ Passé composé, Teilungsartikel und Adjektive formen.
 
 ## Geometrie
 Zum Glück keine Geographie.
-### [[0. Grundlagen Geometrie]]
-Sehr simple Einleitung der Grundbegriffe. 
+### ~~[[0. Grundlagen Geometrie]]~~
+Nicht realisierte Zusammenfassung.
 
 ### [[1. Planimetrie I]]
 Ähnlichkeit von Dingen und Pythagoras.
