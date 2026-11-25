@@ -1,5 +1,5 @@
 # Einführung
-Die bestimmung von Joule $J$ und [[Newton]] mal Meter $N\times m$ ergibt die Formel $J = Nm$.
+Die bestimmung von Joule $J$ und [[Newton]] mal Meter $N\cdot m$ ergibt die Formel $J = Nm$.
 
 # Anwendung
 Da diese Angabe nicht nur für Arbeit ist, sondern auch für das Drehmoment.

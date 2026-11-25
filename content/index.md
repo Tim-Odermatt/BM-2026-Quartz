@@ -6,7 +6,7 @@ Folgende Fächer mit meinen erstellten Zusammenfassungen dazu.
 
 ## Algebra
 The math ain't mathing.
-### [[1. Repetitionsblock]]
+### [[1. Repetitionsblock Algebra]]
 Start mit BM Algebra, dabei wird viel Wert auf die [Werkstatt](https://mathematik.bm-mint.ch/Werkstatt/index.html) gelegt.
 
 ### [[2. Funktionen I, Gleichungen I]]
@@ -20,7 +20,7 @@ Wie man mit mehreren variablen das Resultat bekommt einer Gelichung.
 ## Chemie
 Die Geschichte von [Breaking Bad.](https://en.wikipedia.org/wiki/Breaking_Bad)
 
-### [[1. Einführung]]
+### [[1. Einführung Chemie]]
 Was sind Stoffe, Dichte, und Aggregatszustände.
 
 ### [[2. Atombau und Atommodelle]]
@@ -63,12 +63,13 @@ Je ne parle pas français!
 Das erste Thema, dabei handelt es sich regelrecht um einen Neuanfang.
 
 ### [[2. Et avec ceci]]
+Passé composé, Teilungsartikel und Adjektive formen.
 
 ---
 
 ## Geometrie
 Zum Glück keine Geographie.
-### [[0. Grundlagen]]
+### [[0. Grundlagen Geometrie]]
 Sehr simple Einleitung der Grundbegriffe. 
 
 ### [[1. Planimetrie I]]
@@ -117,7 +118,7 @@ Das IDAF Modul zu Vektoren berechnen/addieren/dividieren/multiplitzieren.
 ## Wirtschaft und Recht
 Gesetz ist Gesetz.
 
-### [[2. Grundlagen]]
+### [[2. Grundlagen WR]]
 Grundbausatz für Politik, Recht, Wirtschaft, und Geselschaft.
 
 ### [[3.1 Familienrecht und Erbrecht]]
